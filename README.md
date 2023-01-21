@@ -8,7 +8,8 @@ A multi-lingual corpus in German, Romansh and Italian
 A set of 600 parallel sentences (German-Romansh), manually annotated for word alignment. 
 
 ## Citation
-If you use the corpus I collected or my gold standard for published work, please cite my master's thesis:
+If you use this corpus or gold standard for published work, please cite my [master's thesis](https://www.cl.uzh.ch/dam/jcr:5eda2d8a-fe61-4860-82c1-421e2e1d18c3/MA_thesis_Digital_Linguistics_Eyal_Dolev_2022_12_11.pdf):
+
 ```bibtex
 @mastersthesis{citekey,
   author  = "Eyal Liron Dolev",

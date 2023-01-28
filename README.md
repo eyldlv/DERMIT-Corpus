@@ -2,7 +2,18 @@
 A multi-lingual corpus in German, Romansh and Italian
 
 ## Corpus
-(To be uploaded)
+The parallel corpus is presented as JSON files, one per year.
+
+### Parallel sentences
+Tab seperated files containing parallel sentences in the three combinations: German-Romansh (DE-RM), German-Italian (DE-IT) and Romansh-Italian (RM-IT).
+
+|Combination|Sentences|Tokens|Types|
+|-----------|---------|------|-----|
+|DE-RM      |106091   |1864886, 2377547|97385, 50869|
+|DE-IT      |103441   |1848214, 2219378|96859, 58050|
+|RM-IT      |102757   |2302374, 2165287|50014, 57642|
+
+
 
 ## [Gold Standard](./gold_standard/)
 A set of 600 parallel sentences (German-Romansh), manually annotated for word alignment. 

@@ -25,7 +25,7 @@ A set of 600 parallel sentences (German-Romansh), manually annotated for word al
 
 
 ## Citation
-If you use this corpus or the gold standard for published work, please cite my paper:
+If you use this corpus or the gold standard for published work, please cite my [paper](./dolev-2023-romansh.pdf):
 
 ```bibtex
 @inproceedings{dolev-2023-romansh,

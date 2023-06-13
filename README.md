@@ -14,20 +14,26 @@ Tab seperated files containing parallel sentences in the three combinations: Ger
 |RM-IT      |102757   |2302374, 2165287|50014, 57642|
 
 
+### Copyright
+The copyright to the press releases lies with the Canton of Graubünden. Downloading the press releases is explicitly allowed. Commercial use is explicity prohibited. In any event, please consult the [copyright notice](https://www.gr.ch/de/Seiten/Impressum.aspx) on the cantnon's website.
+
 
 ## [Gold Standard](./gold_standard/)
 A set of 600 parallel sentences (German-Romansh), manually annotated for word alignment. 
 
+
+
+
 ## Citation
-If you use this corpus or gold standard for published work, please cite my [master's thesis](https://www.cl.uzh.ch/dam/jcr:5eda2d8a-fe61-4860-82c1-421e2e1d18c3/MA_thesis_Digital_Linguistics_Eyal_Dolev_2022_12_11.pdf):
+If you use this corpus or the gold standard for published work, please cite my paper:
 
 ```bibtex
-@mastersthesis{mathesis-dolev-2022,
-  author  = "Eyal Liron Dolev",
-  title   = "Using Multilingual Word Embeddings for Similarity-Based Word Alignments in a Zero-Shot Setting: Tested on the Case of German–Romansh",
-  school  = "University of Zurich",
-  year    = "2022",
-  url     = "https://www.cl.uzh.ch/dam/jcr:5eda2d8a-fe61-4860-82c1-421e2e1d18c3/MA_thesis_Digital_Linguistics_Eyal_Dolev_2022_12_11.pdf"
+@inproceedings{dolev-2023-romansh,
+    author    = "Eyal Liron Dolev",
+    title     = "Does m{BERT} understand Romansh? Evaluating word embeddings using word alignment",
+    booktitle = "Proceedings of the 8th Swiss Text Analytics Conference (SwissText)",
+    year      = "2023",
+    month     = "jun"
 }
 
 ```

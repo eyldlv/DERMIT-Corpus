@@ -25,15 +25,24 @@ A set of 600 parallel sentences (German-Romansh), manually annotated for word al
 
 
 ## Citation
-If you use this corpus or the gold standard for published work, please cite my [paper](./dolev-2023-romansh.pdf):
-
+If you use this corpus or the gold standard for published work, please cite my [paper](https://aclanthology.org/2023.swisstext-1.5.pdf):
 ```bibtex
-@inproceedings{dolev-2023-romansh,
-    author    = "Eyal Liron Dolev",
-    title     = "Does m{BERT} understand Romansh? Evaluating word embeddings using word alignment",
-    booktitle = "Proceedings of the 8th Swiss Text Analytics Conference (SwissText)",
-    year      = "2023",
-    month     = "jun"
+@inproceedings{dolev-2023-mbert,
+    title = "Does m{BERT} understand {R}omansh? Evaluating word embeddings using word alignment.",
+    author = "Dolev, Eyal Liron",
+    editor = {Ghorbel, Hatem  and
+      Sokhn, Maria  and
+      Cieliebak, Mark  and
+      H{\"u}rlimann, Manuela  and
+      de Salis, Emmanuel  and
+      Guerne, Jonathan},
+    booktitle = "Proceedings of the 8th edition of the Swiss Text Analytics Conference",
+    month = jun,
+    year = "2023",
+    address = "Neuchatel, Switzerland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.swisstext-1.5",
+    pages = "41--53",
 }
 
 ```
